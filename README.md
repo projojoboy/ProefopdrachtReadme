@@ -28,8 +28,6 @@ Ten eerste heb ik gekeken voor welk platform ik dit project wou maken, ik wil he
 |week 2 | Online multiplayer maken | Cutscenes en mijnkar skins toevoegen | Vaardigheids systeem maken | Alle wapens maken | Play tests en bug's fixen |
 
 ## Bronnen
-Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
-
-- [The Guide To Game Design](link)
-- [Alleatoric Algorithms](link)
-- [Flood-Fill Wikipedia](link)
+- [Getting started with VR](https://unity3d.com/learn/tutorials/topics/xr/getting-started-vr-development)
+- [Multiplayer Tutorial](https://www.youtube.com/watch?v=cQ0f1_Ct9lc)
+- [Object follow path](https://www.youtube.com/watch?v=fKWTpi70a_E)
